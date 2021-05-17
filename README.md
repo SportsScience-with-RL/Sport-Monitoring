@@ -1,4 +1,4 @@
-# Projet de suivi de performance sportive
+# Projet de suivi sur une équipe sportive
 
 ## Présentation du projet
 
