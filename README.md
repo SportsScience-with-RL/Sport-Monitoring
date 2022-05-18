@@ -15,5 +15,3 @@ La Part.3 présente la partie machine learning : pre-processing, une classificat
 Procéder à d'autres analyses factorielles pour trouver davantage de liens entre les marqueurs.
 
 Procéder à des analyses similaires pour des données quantitatives. Les processus seront quasiment similaires, des différences seront faites notamment lors du pre-processing.
-
-Créer un dashboard avec Dash.
